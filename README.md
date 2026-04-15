@@ -1,5 +1,4 @@
-# AminataSembene23-portfolio
-# 👋 Aminata Ngoné SEMBENE
+Aminata Ngoné SEMBENE
 
 **Ingénieure Cybersécurité | SOC · Gestion des Risques IT · ISO 27001 · Détection & Réponse**
 
